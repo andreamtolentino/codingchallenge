@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA75nYjSgNJUyU65IyHYvLbAAAAAACAAAAAAADZgAAwAAAABAAAABRmRpRonjqqT6t6QerK9iaAAAAAASAAACgAAAAEAAAABOCAKX3cvdrTmafgDeBBFGAAAAA8LLrxj3hGqyRabn5v6/V77vtR0WnB/GMjmtUyZLuN1joxUwUHT+r/XoWyx+OJDNrcgOBUfEwqedLk9oDDrPQu7GoK5nr0EQhW1NxLnS/w1u3jivi/GV6atkmcRfASDfm5yZKss7z0KMwpRlwGJVlPcwsAvRnpQvRLn17c9yJ4K8UAAAA1BwvZR88eiCP8VgewIYVtfwonI4=</EncryptedPassword>
+    <History>True|2021-08-31T11:05:04.2519620Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ChallengeConnection">
+      <Value>Server=tcp:moulacoding.database.windows.net,1433%3bInitial Catalog=Challenge%3bPersist Security Info=False%3bUser ID=accountapi%3bPassword=Password!%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
