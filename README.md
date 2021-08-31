@@ -50,9 +50,9 @@ controllers and get responses back via HTTP (JSON format).
 
 # ASSUMPTIONS:
 
-- A user who has an account in this system wants to check his remaining balance
+• A user who has an account in this system wants to check his remaining balance
 and the list of payment that he has.
 
-- The list shows the Date of Payment when the user had the transaction and
+• The list shows the Date of Payment when the user had the transaction and
 the Amount of Payment that he made. The Account Balance updates everytime the
 user makes a transaction, as well as the Status of the payment that was made.
