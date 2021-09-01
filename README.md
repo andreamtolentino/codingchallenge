@@ -51,8 +51,8 @@
 • DTO (Data Transfer Object) - external representation of internal models out to the
   consuming endpoints.
 
-• API Client (Postman) - in this project, I used Postman to make the requests to the
-  controllers and get responses back via HTTP (JSON format).
+• API Client (Postman) - in this project, Postman is utilized to make the requests to
+  the controllers and get responses back via HTTP in JSON format.
 
 
 # ASSUMPTIONS:
