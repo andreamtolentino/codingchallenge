@@ -1,6 +1,6 @@
 # HOW TO BUILD AND RUN:
 
-• Copy the URL link from GitHub (moulacodingchallenge).
+• Copy the URL link from GitHub (codingchallenge).
   - Dropdown Code (green button) then copy the HTTPS link
 
 • Start Visual Studio 2019 and open "Clone a Repository", then paste the link you
@@ -10,7 +10,7 @@
 
 • In the project directory (View > Terminal), you can run:
 
-  - cd MoulaCodingChallenge (to go directly to the project file if you're not
+  - cd CodingChallenge (to go directly to the project file if you're not
     on the right path yet)
 
 • When already directed to the "Challenge" project, you can run:
@@ -23,11 +23,11 @@
   - dotnet run (runs the app in the development mode)
 
 • You can now open [ https://localhost:5001/api/account/ ]  or
-  [ https://moulaaccount.azurewebsites.net/api/account ] to view it in the browser and
+  [ https://codingchallengev2.azurewebsites.net/api/account ] to view it in the browser and
   see the Account Balance and List of Payment of the user.
 
 • You can also open [ https://localhost:5001/api/account/A ]  or
-  [ https://moulaaccount.azurewebsites.net/api/account/A ] to view the recent transaction
+  [ https://codingchallengev2.azurewebsites.net/api/account/A ] to view the recent transaction
   that the user has made.
 
 
